@@ -33,7 +33,7 @@ rootfolder   = "DeansPasswordManager"
 roamingpath  = f"C:\\Users\\{current_user}\\AppData\\Roaming"
 rootpath     = os.path.join(roamingpath, rootfolder)
 pm_exe       = os.path.join(rootpath, "pm.exe")
-URL = r"https://download1349.mediafire.com/z21tyjjs4qsg/nclzm38zqbwppml/pm.exe"
+URL = r"https://download1320.mediafire.com/r8urh31u85ng/1jbj33xbquqyi08/PM.exe"
 
 print()
 # if rootfolder and/or path ENV variables already exist, delete them
