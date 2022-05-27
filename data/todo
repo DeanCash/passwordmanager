@@ -1,0 +1,10 @@
+1: list passwords command ✅
+2: create new password - add to json command ✅
+3: remove a password from storage - remove command ✅
+4: copy specified password to clipboard ✅
+5: uninstaller - make sure everything gets cleaned up perfectly ✅
+6: master password aanmaken en opslaan ✅
+7: create option to change master password ✅
+
+BUG#1:  #// Fix wrong index select and copying passwords
+BUG#2:  #// Disallow having 2 of the same passwords
